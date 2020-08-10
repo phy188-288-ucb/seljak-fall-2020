@@ -1,27 +1,21 @@
 **University of California, Berkeley, Department of Physics**
 
-**PHY188/288: Fall 2019**
+**PHY188/288: Fall 2020**
 
 Bayesian Data Analysis and Machine Learning for Physical Sciences
 ====================================================================
 
-Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
-&nbsp; Office hours: Thursday 11:00AM-12:00PM, Campbell 359 (knock on the glass door if you do not have access)
+Instructor: Uro&#353; Seljak, useljak@berkeley.edu <br>
+&nbsp; Office hours: TBD
 
-GSI: Byeonghee Yu (DIS101), bhyu@berkeley.edu, <br>
-&nbsp; Office hours: Monday 3:30PM-4:30PM, 325 LeConte Hall.
-
-GSI: Biwei Dai (DIS102), biwei@berkeley.edu <br>
-&nbsp; Office hours: Monday 4:30PM-5:30PM, 325 LeConte Hall.
-
-Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, 251 LeConte Hall </b> <br>
-Discussion: <b>Wednesday 1:00PM-2:00PM, 325 LeConte Hall </b> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 2:00PM-3:00PM, 251 LeConte Hall </b> <br>
+Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, Online </b> <br>
+Discussion: <b>Wednesday 1:00PM-2:00PM, Online </b> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 2:00PM-3:00PM, Online </b> <br>
 Units: <b>4.0</b>
 
 
 
-Class Number: 32821
+Class Number: 26276
 
 Course Syllabus
 ---------------
