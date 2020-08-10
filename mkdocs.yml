@@ -1,0 +1,14 @@
+site_name: "Bayesian Data Analysis and Machine Learning for Physical Sciences"
+theme: readthedocs
+theme_dir: 'readthedocs_custom'
+edit_uri: edit/master/docs/
+repo_url: https://github.com/phy188-288-ucb/seljak-fall-2019
+extra:
+  logo : img/banner.png
+  logo_name : true
+
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math
