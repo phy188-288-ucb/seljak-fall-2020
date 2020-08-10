@@ -113,7 +113,7 @@ To download a Jupyter notebook, right click the link and save it as an .ipynb fi
 
 <!-- - **Project 3** (Classification and inference with machine learning): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project3.ipynb)
 
-**Past Assignments**:
+-- **Past Assignments**:
 
  - **HW1 (Numerical Integration and ODE/PDEs)**: 
  <br> &nbsp; &nbsp; [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW1/HW1_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW1/HW1_288.ipynb)
