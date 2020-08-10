@@ -83,35 +83,7 @@ Here is an example
    or clicking File/Save and Checkpoint. Have you ever seen a floppy disk?
    
 <br>
-   
-<!-- Past Assignments:
-To download a Jupyter notebook, right click the link and save it as an .ipynb file.
 
-<!-- - **HW1** (Numerical Integration and ODE/PDEs): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW1.ipynb)
- 
-<!-- - **HW2** (Intro to Statistics): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.ipynb)
- 
-<!-- - **HW3** (Intro to Statistics - Part 2): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.ipynb)
-
-<!-- - **HW4** (Linear Algebra and Data Modeling): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW4.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW4.ipynb)
-
-<!-- - **HW5** (Markov Chain Simulation and Hierarchical Model): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW5.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW5.ipynb)
- 
-<!-- - **Project 1 - part 1** (Fisher Information Matrix): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p1.ipynb)
- 
-<!-- - **Project 1 - part 2** (Linear Algebra and Optimization): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p2.ipynb)
- 
-<!-- - **Project 1 - part 1** (Markov chain Monte Carlo): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p3.ipynb)
- 
-<!-- - **HW6** (MLE, MCMC, Interpolation, Expectation Maximization (EM), and Resampling Methods): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW6.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW6.ipynb)
- 
-<!-- - **HW7** (Distributional Approximation and Gaussian Processes): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW7.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW7.ipynb)
- 
-<!-- - **Project 2** (Fourier methods, Matched Filtering, and Differential Equations): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project2.ipynb)
- 
-<!-- - **HW8** (Linear Regression, Regularization, and Logistic & Softmax Regression): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW8.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW8.ipynb)
-
-<!-- - **Project 3** (Classification and inference with machine learning): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project3.ipynb)
 
 Past Assignments
 ------------
@@ -143,3 +115,34 @@ Past Assignments
  - **Project 3 (Final) (Classification and inference with machine learning)**: 
  <br> &nbsp; &nbsp; [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/Project3/Project3_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/Project3/Project3_288.ipynb)
 
+
+   
+   
+<!-- Past Assignments:
+To download a Jupyter notebook, right click the link and save it as an .ipynb file.
+
+<!-- - **HW1** (Numerical Integration and ODE/PDEs): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW1.ipynb)
+ 
+<!-- - **HW2** (Intro to Statistics): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.ipynb)
+ 
+<!-- - **HW3** (Intro to Statistics - Part 2): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.ipynb)
+
+<!-- - **HW4** (Linear Algebra and Data Modeling): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW4.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW4.ipynb)
+
+<!-- - **HW5** (Markov Chain Simulation and Hierarchical Model): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW5.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW5.ipynb)
+ 
+<!-- - **Project 1 - part 1** (Fisher Information Matrix): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p1.ipynb)
+ 
+<!-- - **Project 1 - part 2** (Linear Algebra and Optimization): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p2.ipynb)
+ 
+<!-- - **Project 1 - part 1** (Markov chain Monte Carlo): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project1_p3.ipynb)
+ 
+<!-- - **HW6** (MLE, MCMC, Interpolation, Expectation Maximization (EM), and Resampling Methods): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW6.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW6.ipynb)
+ 
+<!-- - **HW7** (Distributional Approximation and Gaussian Processes): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW7.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW7.ipynb)
+ 
+<!-- - **Project 2** (Fourier methods, Matched Filtering, and Differential Equations): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project2.ipynb)
+ 
+<!-- - **HW8** (Linear Regression, Regularization, and Logistic & Softmax Regression): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW8.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW8.ipynb)
+
+<!-- - **Project 3** (Classification and inference with machine learning): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/Project3.ipynb)
