@@ -42,59 +42,56 @@ Graduate students: none.
 
 Weekly Syllabus
 ---------------
-Lecture 1: **Numerical integration**: from Simpson to Romberg, proper and improper integrals, Gaussian quadratures, multi-dimensional integrals; **Ordinary and partial differential equations**: Euler, Runge Kutta, Bulirsch-Stoer, stiff equation solvers, leap-frog and symplectic integrators, Partial differential equations: boundary value and initial value problems
 
-&nbsp; References: Chapter 4 of NR (http://apps.nrbook.com/c/index.html) & Chapter 5 of Computational Physics (http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf), Chapter 17, 18, and 20 of NR 
-
-Lecture 2: **Introduction to probability and Bayesian inference**: general rules of probability, generating functions, moments and cumulants, binomial and multinomial, Poisson, gaussian distributions, multi-variate distributions, joint probability, marginal probability, Bayes theorem, forward and inverse probability, from probability to inference and the meaning of probability, prior, likelihood and posterior, interval estimates, comparison between Bayesian and classical statistics, Bayesian versus classical hypothesis testing (p-value) 
+Lecture 1: **Introduction to probability and Bayesian inference**: general rules of probability, generating functions, moments and cumulants, binomial and multinomial, Poisson, gaussian distributions, multi-variate distributions, joint probability, marginal probability, Bayes theorem, forward and inverse probability, from probability to inference and the meaning of probability, prior, likelihood and posterior, interval estimates, comparison between Bayesian and classical statistics, Bayesian versus classical hypothesis testing (p-value) 
 
 &nbsp; References: Ch. 2.1-2.3, 3 of MacKay, Ch. 2 of Kardar, Ch. 1-2 of Gelman et al, Bayesian data analysis
 
-Lecture 3: **More on Bayesian inference and intro to data modeling**: informative and noninformative priors, maximum a posteriori (MAP) and maximum likelihood estimator (MLE), asymptotic theorems, least square as MAP/MLE, fitting data to a straight line and a general linear least square model, normal equations
+Lecture 2: **More on Bayesian inference and intro to data modeling**: informative and noninformative priors, maximum a posteriori (MAP) and maximum likelihood estimator (MLE), asymptotic theorems, least square as MAP/MLE, fitting data to a straight line and a general linear least square model, normal equations
 
 &nbsp; Reference: Ch. 15 of NR, Ch. 3, 4 of Gelman et al. 
 
-Lecture 4: **Linear Algebra**: gaussian and Gauss-Jacobi elimination, backsubstitution, pivoting, LU decomposition, Cholesky decomposition, QR decomposition,  sparse matrix linear algebra, solving linear equations with linear algebra, QR decomposition and tridiagonal forms, diagonalization of a symmetric and non-symmetric matrix, principal axes and covariance matrix, singular value decomposition (SVD), application to normal equations, principal component analysis (PCA) and dimensionality reduction, independent component analysis (ICA)
+Lecture 3: **Linear Algebra**: gaussian and Gauss-Jacobi elimination, backsubstitution, pivoting, LU decomposition, Cholesky decomposition, QR decomposition,  sparse matrix linear algebra, solving linear equations with linear algebra, QR decomposition and tridiagonal forms, diagonalization of a symmetric and non-symmetric matrix, principal axes and covariance matrix, singular value decomposition (SVD), application to normal equations, principal component analysis (PCA) and dimensionality reduction, independent component analysis (ICA)
 
 &nbsp; Reference: Ch. 2,11 of NR & Ch. 6 of Newman, https://arxiv.org/pdf/1404.2986.pdf
 
-Lecture 5: **Information theory**: Shannon information and mixing entropy, entropy for continuous variables and maximum entropy distributions, Kullback-Leibler divergence, negentropy, statistical independence, mutual and multi-information (application: FastICA), ensemble averaging: log likelihood as entropy,  curvature matrix (Hessian) as Fisher information matrix. Experiment design.  
+Lecture 4: **Information theory**: Shannon information and mixing entropy, entropy for continuous variables and maximum entropy distributions, Kullback-Leibler divergence, negentropy, statistical independence, mutual and multi-information (application: FastICA), ensemble averaging: log likelihood as entropy,  curvature matrix (Hessian) as Fisher information matrix. Experiment design.  
 
 &nbsp; Reference: Ch. 2 of MacKay, Ch. 2 of Kardar, https://arxiv.org/pdf/1404.2986.pdf
 
-Lecture 6: **Nonlinear equations and 1-d optimization**: bisection, Newton-Raphson, secant, false position method. Golden ratio, parabolic optimization. Relaxation methods. **Optimization in many dimensions**: 1st order:gradient descent, stochastic gradient descent, mini-batch gradient descent. Momentum and Nesterov acceleration, ADAM. 2nd order methods: general strategies: choosing direction, doing line search or trust region. Newton, quasi-Newton, Gauss-Newton, conjugate gradient, Levenberg-Malmquardt method. 
+Lecture 5: **Nonlinear equations and 1-d optimization**: bisection, Newton-Raphson, secant, false position method. Golden ratio, parabolic optimization. Relaxation methods. **Optimization in many dimensions**: 1st order:gradient descent, stochastic gradient descent, mini-batch gradient descent. Momentum and Nesterov acceleration, ADAM. 2nd order methods: general strategies: choosing direction, doing line search or trust region. Newton, quasi-Newton, Gauss-Newton, conjugate gradient, Levenberg-Malmquardt method. 
 
 &nbsp; Reference: Newman Ch. 6, NR Ch. 9, Nocedal & Wright, Optimization. NR 9,10,15. 
 
-Lecture 7: **Monte Carlo methods for integration and posteriors**: Simple Monte Carlo. Random number generators: transform method, Box-Muller for gaussian, Cholesky for multivariate gaussians, rejection sampling. Importance sampling for posteriors and for integration. Markov Chain Monte Carlo: Metropolis and Metropolis-Hastings. Convergence tests: burn-in, Gelman-Rubin statistic and chain correlation length. Improving efficiency: proposal function, Gibbs sampler with conditional conjugate distributions. Simulated annealing and simulated tampering. Hamiltonian Monte Carlo. Other MCMC approaches. 
+Lecture 6: **Monte Carlo methods for integration and posteriors**: Simple Monte Carlo. Random number generators: transform method, Box-Muller for gaussian, Cholesky for multivariate gaussians, rejection sampling. Importance sampling for posteriors and for integration. Markov Chain Monte Carlo: Metropolis and Metropolis-Hastings. Convergence tests: burn-in, Gelman-Rubin statistic and chain correlation length. Improving efficiency: proposal function, Gibbs sampler with conditional conjugate distributions. Simulated annealing and simulated tampering. Hamiltonian Monte Carlo. Other MCMC approaches. 
 
 &nbsp; References: NR, Press etal., Ch.7, Newman, Ch. 10, Gelman et al. Ch 10-12, MacKay Ch. 20-22
 
-Lecture 8: **More advanced Bayesian analysis**: probabilistic graphical models, hierarchical Bayesian models, model checking and evaluation, dealing with outliers
+Lecture 7: **More advanced Bayesian analysis**: probabilistic graphical models, hierarchical Bayesian models, model checking and evaluation, dealing with outliers
 
 &nbsp; References: Gelman et al. Ch. 5, 6, 7, 17
 
-Lecture 9: **Variational approximations**: conditional and marginal approximations, expectation maximization and gaussian mixture model, variational inference and variational Bayes, expectation propagation
+Lecture 8: **Variational approximations**: conditional and marginal approximations, expectation maximization and gaussian mixture model, variational inference and variational Bayes, expectation propagation
 
 &nbsp; References: Gelman Ch 13, 22
 
-Lecture 10: **Best practices of statistical analysis**: Model checking, evaluating, Model comparison, bootstrap, jackknife, cross-validation tests, p-hacking, blind analysis, decision theory
+Lecture 9: **Best practices of statistical analysis**: Model checking, evaluating, Model comparison, bootstrap, jackknife, cross-validation tests, p-hacking, blind analysis, decision theory
 
 &nbsp; References: Gelman Ch 6-9, Mackay Ch 36
 
-Lecture 11: **Interpolation and extrapolation of data**: polynomial, rational and spline interpolation, gaussian processes for regression and for classification
+Lecture 10: **Interpolation and extrapolation of data**: polynomial, rational and spline interpolation, gaussian processes for regression and for classification
 
 &nbsp; References: NR Ch. 5, Gelman Ch. 21
 
-Lecture 12: **Fourier methods**: Fast Fourier transforms (FFT), FFT convolutions, power spectrum and correlation function, Wiener filtering and missing data, matched filtering, wavelets
+Lecture 11: **Fourier methods**: Fast Fourier transforms (FFT), FFT convolutions, power spectrum and correlation function, Wiener filtering and missing data, matched filtering, wavelets
 
 &nbsp; References: NR Ch. 12, 13
 
-Lecture 13: **Classification**: supervised and unsupervised learning, naive Bayes, Decision Tree-Based methods, random forest
+Lecture 12: **Classification**: supervised and unsupervised learning, naive Bayes, Decision Tree-Based methods, random forest
 
 &nbsp; References: Bishop Ch 3, Gelman Ch 20-21
 
-Lecture 14: **Neural networks, deep networks, Convolutional nets**: neural networks, deep networks, adversarial networks and VAE, automated differentiation: back and forward propagation, inference: logistic function, ReLU
+Lecture 13: **Neural networks, deep networks, Convolutional nets**: neural networks, deep networks, adversarial networks and VAE, automated differentiation: back and forward propagation, inference: logistic function, ReLU
 
 &nbsp; References: http://cs231n.github.io/, https://arxiv.org/pdf/1803.08823.pdf, http://www.deeplearningbook.org/
 
