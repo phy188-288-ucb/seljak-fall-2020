@@ -2,7 +2,7 @@ site_name: "Bayesian Data Analysis and Machine Learning for Physical Sciences"
 theme: readthedocs
 theme_dir: 'readthedocs_custom'
 edit_uri: edit/master/docs/
-repo_url: https://github.com/phy188-288-ucb/seljak-fall-2019
+repo_url: https://github.com/phy188-288-ucb/seljak-fall-2020
 extra:
   logo : img/banner.png
   logo_name : true
