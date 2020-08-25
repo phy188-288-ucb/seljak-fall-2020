@@ -9,7 +9,7 @@ Instructor: Uro&#353; Seljak, useljak@berkeley.edu <br>
 &nbsp; Office hours: Thursday 11:00AM-12:00PM
 
 GSI: Biwei Dai, biwei@berkeley.edu <br>
-&nbsp; Office hours: TBD
+&nbsp; Office hours: Friday 1:00PM-2:00PM
 
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, Online </b> <br>
 Discussion: <b>Wednesday 1:00PM-2:00PM, Online </b> <br>
