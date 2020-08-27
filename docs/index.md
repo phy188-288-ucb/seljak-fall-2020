@@ -37,8 +37,8 @@ methods in phython.
 Each week there will be a set of 3 hour lectures discussing theoretical and practical underpinnings of the specific topic,
 together with its most common applications in physical sciences. Class participation is expected in the form of weekly reading the lecture in advance, submitting comments and questions on the lecture and answering a short set of questions. There will be eight python based homework assignments, applying the methods to physical science based applications. A weekly one hour discussion will focus on the lecture material and homeworks. There will be 3 longer projects spread over the term.
 
-**Prerequsites**:
-Undergraduate students: basic introduction to Python programming at the level of PHY77 or permission from instructor.
+**Prerequsites**: <br>
+Undergraduate students: basic introduction to Python programming at the level of PHY77 or permission from instructor. <br>
 Graduate students: none. 
 
 **Grades**: 40% projects, 40% homeworks, 20% quizzes. Taking the course for Pass/Fail requires 50% of the work completed. 
