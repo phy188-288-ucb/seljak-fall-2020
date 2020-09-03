@@ -6,7 +6,9 @@ Lecture Notes
  - [Lecture 1: Intro to Statistics](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture1_fall2020.pdf
     )
-
+ - [Lecture 2: Intro to Data Analysis and Machine Learning](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture2_fall2020.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
