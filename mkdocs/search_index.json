@@ -57,12 +57,12 @@
         },
         {
             "location": "/lectures/",
-            "text": "Lecture Notes\n\n\nThis page\n contains a list of links to PHY188/288 lecture notes.\n\n\n\n\nLecture 1: Intro to Statistics",
+            "text": "Lecture Notes\n\n\nThis page\n contains a list of links to PHY188/288 lecture notes.\n\n\n\n\nLecture 1: Intro to Statistics\n\n\nLecture 2: Intro to Data Analysis and Machine Learning",
             "title": "Lectures"
         },
         {
             "location": "/lectures/#lecture-notes",
-            "text": "This page  contains a list of links to PHY188/288 lecture notes.   Lecture 1: Intro to Statistics    < !-- A full list can be found at on [github](https://github.com/phy188-288-ucb/seljak-fall-2019/tree/master/lecture-notes/)",
+            "text": "This page  contains a list of links to PHY188/288 lecture notes.   Lecture 1: Intro to Statistics  Lecture 2: Intro to Data Analysis and Machine Learning    < !-- A full list can be found at on [github](https://github.com/phy188-288-ucb/seljak-fall-2019/tree/master/lecture-notes/)",
             "title": "Lecture Notes"
         }
     ]
