@@ -12,6 +12,8 @@ which contains the most updated information.
  - **HW1 (Intro to Statistics)** (Due Sept. 09, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_288.ipynb)
  
+ NOTE: HW1 solution will be posted on 9/18, and HW1 grades will be available before then.
+ 
  - **HW2 (Intro to Data Analysis, Dimensionality Reduction, and Clustering):** (Due Sept. 16, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2_288.ipynb)
  
