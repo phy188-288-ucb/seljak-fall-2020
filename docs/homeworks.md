@@ -14,7 +14,7 @@ which contains the most updated information.
 )
  
  - **HW2 (Intro to Data Analysis, Dimensionality Reduction, and Clustering):** (Due Sept. 16, 11:59pm): 
- <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2_288.ipynb)
+ <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2_288.ipynb)/    [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW2/HW2-solution.ipynb)
  
  - **HW3 (Linear Algebra - Gaussian Elimination, SVD, Polynomial Regression, PCA, KNN, and Data Modeling)** (Due Sept. 23, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW3/HW3_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW3/HW3_288.ipynb)
