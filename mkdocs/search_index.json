@@ -57,12 +57,12 @@
         },
         {
             "location": "/lectures/",
-            "text": "Lecture Notes\n\n\nThis page\n contains a list of links to PHY188/288 lecture notes.\n\n\n\n\nLecture 1: Intro to Statistics\n\n\nLecture 2: Intro to Data Analysis and Machine Learning\n\n\nLecture 3: Linear Algebra\n\n\nLecture 4: Information Theory, Entropy, Experiment Design",
+            "text": "Lecture Notes\n\n\nThis page\n contains a list of links to PHY188/288 lecture notes.\n\n\n\n\nLecture 1: Intro to Statistics\n\n\nLecture 2: Intro to Data Analysis and Machine Learning\n\n\nLecture 3: Linear Algebra\n\n\nLecture 4: Information Theory, Entropy, Experiment Design\n\n\nLecture 5: Nonlinear Equations and Optimization",
             "title": "Lectures"
         },
         {
             "location": "/lectures/#lecture-notes",
-            "text": "This page  contains a list of links to PHY188/288 lecture notes.   Lecture 1: Intro to Statistics  Lecture 2: Intro to Data Analysis and Machine Learning  Lecture 3: Linear Algebra  Lecture 4: Information Theory, Entropy, Experiment Design    < !-- A full list can be found at on [github](https://github.com/phy188-288-ucb/seljak-fall-2019/tree/master/lecture-notes/)",
+            "text": "This page  contains a list of links to PHY188/288 lecture notes.   Lecture 1: Intro to Statistics  Lecture 2: Intro to Data Analysis and Machine Learning  Lecture 3: Linear Algebra  Lecture 4: Information Theory, Entropy, Experiment Design  Lecture 5: Nonlinear Equations and Optimization      < !-- A full list can be found at on [github](https://github.com/phy188-288-ucb/seljak-fall-2019/tree/master/lecture-notes/)",
             "title": "Lecture Notes"
         }
     ]
