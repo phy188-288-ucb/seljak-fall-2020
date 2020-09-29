@@ -15,7 +15,9 @@ Lecture Notes
  - [Lecture 4: Information Theory, Entropy, Experiment Design](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture4_fall2020.pdf
     )
-    
+ - [Lecture 5: Nonlinear Equations and Optimization](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture5_fall2020.pdf
+    ) 
     
 <!-- 
  - [Lecture 4: Linear Algebra](
