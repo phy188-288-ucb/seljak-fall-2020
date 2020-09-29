@@ -57,46 +57,33 @@ which contains the most updated information.
 
 Instructions
 ------------
-How to access the assignment and submit it to okpy:
+How to access the assignment and upload the Jupyter notebook as a homework submission in bcourses:
 
 During the course of PHY188/288, you will be writing and running the homeworks in the Data8
 IPython Jupyter Notebook environment provided by ``datahub.berkeley.edu``.
 
 Once you click the homework link, the environment will bring you to the Jupyter Notebook
-file browser interface.
-
- - If login is requested, be sure to use your Berkeley account (``@berkeley.edu``).
- - The initial log in may give a false positive 500 error "Too many Redirections".
-   Click on the ``Home`` link at the top of page will bring you to the correct place;
-   Status of this error is tracked as an [Issue](https://github.com/berkeley-dsep-infra/datahub/issues/42).
-
-In the file browser, open the main homework notebook (e.g. “HW1.ipynb”) to inspect and finish the homework.
+file browser interface. In the file browser, open the main homework notebook (e.g. “HW1.ipynb”) to inspect and finish the homework.
 
  - Puzzled by the interface? Here is an instruction on [Notebook Basics](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html)
- - You do not need to worry about the “tests” folder and .ok file. These are configuration files for the okpy submission system,
-   documented at [ok client](https://github.com/Cal-CS-61A-Staff/ok-client)
 
-You do need to login to the okpy submission system in order to submit the homework.
-This is usually performed in the first cell of the notebook. Here is an example
-![OKPY-LoginCell](img/okpy-login.png "Example of OKPY Login Cell")
+Once you finish your homework, download it as an .ipynb file. 
+![ex5](img/submission_ex5.png "Example1")
 
-Execute the first cell of the notebook (with ``Shift+Enter``) and make sure that you are successfully logged in.
-
-Depending on how long it is since your last visit of the notebook, you may be prompted to paste your authorization code for OK client.
-
- - Follow the instruction from the cell output to obbtain the authorization code.
- - Usually you will be asked to log into [okpy](https://okpy.org/client/login/) with your berkeley email address (**@berkeley.edu**).
-  Please do **NOT** use your other email (e.g. @gmail.com) account when logging in.
-
-To finish your homework, carefully read the comments and make changes (define functions, make plots, fill in the blanks, etc).
-
-The last cell (containts a line ``_ = ok.submit()``) will submit your notebook. Run it with ``Shift+Enter`` to submit or re-submit.
-Here is an example
-![OKPY-SubmitCell](img/okpy-submit.png "Example of OKPY Submission Cell")
-
- - You can submit multiple times -- we only grade the lastest submission before the deadline.
- - The notebook can be saved to the Data8 system for the duration of the semester. This can be done by clicking the floppy disk (&#x1f4be;),
+ - NOTE: The notebook can be saved to the Data8 system for the duration of the semester. This can be done by clicking the floppy disk (&#x1f4be;),
    or clicking File/Save and Checkpoint. Have you ever seen a floppy disk?
+   
+Go to bcourses and click the corresponding assignment title. THen, click the **Submit Assignment** button.
+![ex1](img/submission_ex1.png "Example1")
+
+Click the **Choose File** button to upload a notebook from your computer. 
+![ex2](img/submission_ex2.png "Example2")
+
+Click the **Submit Assignment** button, and it's done!
+
+Make sure to view the confirmation of your submission.
+![ex3](img/submission_ex3.png "Example3")
+
    
 <br>
 
