@@ -73,13 +73,13 @@ Once you finish your homework, download it as an .ipynb file.
  - NOTE: The notebook can be saved to the Data8 system for the duration of the semester. This can be done by clicking the floppy disk (&#x1f4be;),
    or clicking File/Save and Checkpoint. Have you ever seen a floppy disk?
    
-Go to bcourses and click the corresponding assignment title. THen, click the **Submit Assignment** button.
+Go to bcourses and click the corresponding assignment title. Next, click the **Submit Assignment** button.
 ![ex1](img/submission_ex1.png "Example1")
 
 Click the **Choose File** button to upload a notebook from your computer. 
 ![ex2](img/submission_ex2.png "Example2")
 
-Click the **Submit Assignment** button, and it's done!
+Finish uploading and click the **Submit Assignment** button.
 
 Make sure to view the confirmation of your submission.
 ![ex3](img/submission_ex3.png "Example3")
