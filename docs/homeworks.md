@@ -22,7 +22,7 @@ which contains the most updated information.
  - **HW4 (Fisher Information Matrix & Independent Component Analysis)** (Due Sept. 30, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW4/HW4_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW4/HW4_288.ipynb)
 
- - **Project1-Part1 (Planck analysis - Linear Algebra & Optimization)** (Due Oct. 7, 11:59pm): 
+ - **Project1-Part1 (Planck analysis - Linear Algebra & Optimization)** (Due Oct. 9, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_part1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_part1_288.ipynb)
  
 <!-- - HW1 (due Sept 4, 11:59pm): [Undergraduate_level](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_U.ipynb)/    [Graduate_level](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_G.ipynb)
