@@ -18,6 +18,10 @@ Lecture Notes
  - [Lecture 5: Nonlinear Equations and Optimization](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture5_fall2020.pdf
     ) 
+ - [Lecture 6: Monte Carlo Sampling and Integration](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture6_fall2020.pdf
+    )   
+    
     
 <!-- 
  - [Lecture 4: Linear Algebra](
