@@ -64,31 +64,43 @@ which contains the most updated information.
 
 Instructions
 ------------
-How to access the assignment and upload the Jupyter notebook as a homework submission in bcourses:
 
-During the course of PHY188/288, you will be writing and running the homeworks in the Data8
-IPython Jupyter Notebook environment provided by ``datahub.berkeley.edu``.
+For the remainder of the semester, you are going to be writing and running the homeworks remotely on Google Colaboratory.
+The greatest advantage of using Colab is that it supports free GPU, and this will be particularly useful for future assignments.
 
-Once you click the homework link, the environment will bring you to the Jupyter Notebook
-file browser interface. In the file browser, open the main homework notebook (e.g. “HW1.ipynb”) to inspect and finish the homework.
+First, make sure that you are logged in to your Google Drive account. 
+Open https://colab.research.google.com, and you can go over the Colab introduction notebook. 
 
- - Puzzled by the interface? Here is an instruction on [Notebook Basics](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html)
+Go to your personal google drive and create a folder for this class. 
+![ex1](img/colab1.png "Example1")
 
-Once you finish your homework, download it as an .ipynb file. 
-![ex5](img/submission_ex5.png "Example1")
+You will be given a link to a zip file containing Jupyter notebooks. Upzip it and upload the assignment folder to your Drive folder. 
+![ex1](img/colab2.png "Example2")
 
- - NOTE: The notebook can be saved to the Data8 system for the duration of the semester. This can be done by clicking the floppy disk (&#x1f4be;),
-   or clicking File/Save and Checkpoint. Have you ever seen a floppy disk?
-   
+Next, find the assignment notebook (files ending in .ipynb) and double click on it. Open with Colab. 
+![ex1](img/colab3.png "Example3")
+CAUTION: Make sure to save your work progress. Note that the Colab will disconnect if you are idel for a certain amount of time or if your total connection time exceeds the max allowed time. If that happens, any unsaved progress will be lost. Hence, please get in the habit of saving your code frequently (File -> Save). 
+
+Once you finish your homework, you are going to submit the following:
+1. Jupyter notebook converted to a pdf file
+2. Publicly accessible link to your notebook
+
+First, download your notebook as a pdf file. (File > Print > Save as PDF) 
+![ex1](img/colab5.png "Example5")
+
+To get a publicly accessible link, hit the Share button at the top right, then click "Get link." Make sure that your link is publicly available so that I can access it. (Click on "Anyone with the link") Copy link. 
+![ex1](img/colab6.png "Example6")
+
 Go to bcourses and click the corresponding assignment title. Next, click the **Submit Assignment** button.
 ![ex1](img/submission_ex1.png "Example1")
 
-Click the **Choose File** button to upload a notebook from your computer. 
+Click the **Choose File** button to upload a notebook (pdf file) from your computer. 
 ![ex2](img/submission_ex2.png "Example2")
 
-Finish uploading and click the **Submit Assignment** button.
+Provide a link to your Colab notebook. 
+![ex2](img/colab7.png "Example7")
 
-Make sure to view the confirmation of your submission.
+click the **Submit Assignment** button, and make sure to view the confirmation of your submission.
 ![ex3](img/submission_ex3.png "Example3")
 
    
