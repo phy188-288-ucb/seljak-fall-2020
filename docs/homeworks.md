@@ -81,16 +81,18 @@ You will be given a link to a zip file containing Jupyter notebooks. Upzip it an
 
 Next, find the assignment notebook (files ending in .ipynb) and double click on it. Open with Colab. 
 ![ex1](img/colab3.png "Example3")
-CAUTION: Make sure to save your work progress. Note that the Colab will disconnect if you are idel for a certain amount of time or if your total connection time exceeds the max allowed time. If that happens, any unsaved progress will be lost. Hence, please get in the habit of saving your code frequently (File -> Save). 
+CAUTION: Make sure to save your work progress. Note that the Colab will disconnect if you are idle for a certain amount of time or if your total connection time exceeds the max allowed time. If that happens, any unsaved progress will be lost. Hence, please get in the habit of saving your code frequently (File -> Save). 
 
 Once you finish your homework, you are going to submit the following:
+
 1. Jupyter notebook converted to a pdf file
+
 2. Publicly accessible link to your notebook
 
 First, download your notebook as a pdf file. (File > Print > Save as PDF) 
 ![ex1](img/colab5.png "Example5")
 
-To get a publicly accessible link, hit the Share button at the top right, then click "Get link." Make sure that your link is publicly available so that I can access it. (Click on "Anyone with the link") Copy link. 
+To get a publicly accessible link, hit the Share button at the top right, then click "Get link." Make sure that your link is publicly available. (Click on "Anyone with the link") Copy link. 
 ![ex1](img/colab6.png "Example6")
 
 Go to bcourses and click the corresponding assignment title. Next, click the **Submit Assignment** button.
