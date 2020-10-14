@@ -76,7 +76,7 @@ Open https://colab.research.google.com, and you can go over the Colab introducti
 Go to your personal google drive and create a folder for this class. 
 ![ex1](img/colab1.png "Example1")
 
-You will be given a link to a zip file containing Jupyter notebooks. Upzip it and upload the assignment folder to your Drive folder. 
+On bcourses (under "Assignments"), you will be given a link to a zip file containing Jupyter notebooks. Upzip it and upload the entire assignment folder to your Drive folder. 
 ![ex1](img/colab2.png "Example2")
 
 Next, find the assignment notebook (files ending in .ipynb) and double click on it. Open with Colab. 
