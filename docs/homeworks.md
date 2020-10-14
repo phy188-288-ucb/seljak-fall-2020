@@ -73,15 +73,15 @@ The greatest advantage of using Colab is that it supports free GPU, and this wil
 First, make sure that you are logged in to your Google Drive account. 
 Open https://colab.research.google.com, and you can go over the Colab introduction notebook. 
 
-Go to your personal google drive and create a folder for this class. 
+Go to your personal google drive and create a folder for this class. Important: **Name it as "P188_288"**
 ![ex1](img/colab1.png "Example1")
 
-On bcourses (under "Assignments"), you will be given a link to a zip file containing Jupyter notebooks. Upzip it and upload the entire assignment folder to your Drive folder. 
+On bcourses (under "Assignments"), you will be given a link to a zip file containing Jupyter notebooks. Upzip it and upload the entire assignment folder to your Drive folder "P188_288". 
 ![ex1](img/colab2.png "Example2")
 
 Next, find the assignment notebook (files ending in .ipynb) and double click on it. Open with Colab. 
 ![ex1](img/colab3.png "Example3")
-CAUTION: Make sure to save your work progress. Note that the Colab will disconnect if you are idle for a certain amount of time or if your total connection time exceeds the max allowed time. If that happens, any unsaved progress will be lost. Hence, please get in the habit of saving your code frequently (File -> Save). 
+**CAUTION: Make sure to save your work progress. Note that the Colab will disconnect if you are idle for a certain amount of time or if your total connection time exceeds the max allowed time. If that happens, any unsaved progress will be lost. Hence, please get in the habit of saving your code frequently (File -> Save).** 
 
 Once you finish your homework, you are going to submit the following:
 
