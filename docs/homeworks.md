@@ -90,6 +90,8 @@ Once you finish your homework, you are going to submit the following:
 2. Publicly accessible link to your notebook
 
 First, download your notebook as a pdf file. (File > Print > Save as PDF) 
+Important: **Before you download your notebook, make sure to display full outputs in Jupyter. Check if your pdf file displays both codes and outputs.**
+
 ![ex1](img/colab5.png "Example5")
 
 To get a publicly accessible link, hit the Share button at the top right, then click "Get link." Make sure that your link is publicly available. (Click on "Anyone with the link") Copy link. 
