@@ -24,6 +24,9 @@ Lecture Notes
  - [Lecture 7: Advanced Bayesian Concepts (Probabilistic graphical models, Hierarchical Bayesian models, etc)](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture7_fall2020.pdf
     )
+ - [Lecture 8: Distributional Approximation](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture8_fall2020.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
