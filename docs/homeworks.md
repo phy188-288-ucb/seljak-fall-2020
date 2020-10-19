@@ -23,7 +23,7 @@ which contains the most updated information.
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW4/HW4_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW4/HW4_288.ipynb)/    [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW4/HW4_solution.ipynb)
 
  - **Project1-Part1 (Planck analysis - Linear Algebra & Optimization)** (Due Oct. 9, 11:59pm): 
- <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_part1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_part1_288.ipynb)
+ <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_part1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_part1_288.ipynb)/    [solution](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/Project1_part1/Project1_p1_solution.ipynb)
  
 10/9/2020: Problem 2 in this project is now slightly modified. If you already started working on it, You should take your codes from the old link and re-run them in the new link. 
 
