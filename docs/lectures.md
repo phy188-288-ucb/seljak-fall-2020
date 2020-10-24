@@ -27,6 +27,9 @@ Lecture Notes
  - [Lecture 8: Distributional Approximation](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture8_fall2020.pdf
     )
+ - [Lecture 9: Useful Statistical Methods of Data Analysis](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture9_fall2020.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
