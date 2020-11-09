@@ -33,6 +33,9 @@ Lecture Notes
  - [Lecture 10: From Interpolation to Regressions to Gaussian Processes](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture10_fall2020.pdf
     )
+ - [Lecture 11: Classification](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture11_fall2020.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
