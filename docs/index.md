@@ -41,7 +41,7 @@ together with its most common applications in physical sciences. Class participa
 Undergraduate students: basic introduction to Python programming at the level of PHY77 or permission from instructor. <br>
 Graduate students: none. 
 
-**Grades**: 40% projects, 40% homeworks, 20% quizzes. Taking the course for Pass/Fail requires 50% of the work completed. 
+**Grades**: 40% projects, 40% homeworks, 20% quizzes. 
 
 Weekly Syllabus
 ---------------
