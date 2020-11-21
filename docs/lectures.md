@@ -39,7 +39,9 @@ Lecture Notes
  - [Lecture 12: Fourier Methods](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture12_fall2020.pdf
     ) 
-
+ - [Lecture 13: Neural Networks for Supervised Learning](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture13_fall2020.pdf
+    ) 
     
 <!-- 
  - [Lecture 4: Linear Algebra](
