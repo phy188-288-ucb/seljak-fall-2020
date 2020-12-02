@@ -42,6 +42,9 @@ Lecture Notes
  - [Lecture 13: Neural Networks for Supervised Learning](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture13_fall2020.pdf
     ) 
+ - [Lecture 14: Deep Networks for Unsupervised Learning](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2020/master/lecture-notes/Lecture14_fall2020.pdf
+    ) 
     
 <!-- 
  - [Lecture 4: Linear Algebra](
